@@ -4,7 +4,7 @@
    Welcome to My GitHub Page
    
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Java+Developer&I+am+Recep;font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Java+Developer&I+am+Recep;font=Fira%20Code&center=true&width=440&height=45&color=91642b&vCenter=true&size=25">
   <p align="center">   
       </h5>
     <br>
