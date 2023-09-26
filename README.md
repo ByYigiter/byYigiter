@@ -38,7 +38,7 @@
 
 ---
 ### 👀 Active Repo
-![mrYigiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrYigiter&show_icons=true&theme=tokyonight)
+![byYigiter's GitHub stats](https://github-readme-stats.vercel.app/api?username=byYigiter&show_icons=true&theme=tokyonight)
 
 <!-- ### 🏆 Github Status
 ![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=quananhle&show_icons=true&theme=tokyonight&hide_border=true)
@@ -46,5 +46,5 @@
 
  ---
  
-⭐️ From [mrYigiter](https://github.com/byYigiter) with :sparkling_heart: 
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  ![](https://komarev.com/ghpvc/?username=mrYigiter&color=005cf9&style=flat)
+⭐️ From [byYigiter](https://github.com/byYigiter) with :sparkling_heart: 
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  ![](https://komarev.com/ghpvc/?username=byYigiter&color=005cf9&style=flat)
