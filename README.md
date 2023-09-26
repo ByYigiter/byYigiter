@@ -46,5 +46,5 @@
 
  ---
  
-⭐️ From [mrYigiter](https://github.com/mrYigiter) with :sparkling_heart: 
+⭐️ From [mrYigiter](https://github.com/byYigiter) with :sparkling_heart: 
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  ![](https://komarev.com/ghpvc/?username=mrYigiter&color=005cf9&style=flat)
