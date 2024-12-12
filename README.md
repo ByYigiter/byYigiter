@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryigiter)
 
 
-### 💻:keyboard: Languages and Tools 
+### 💻: Languages and Tools 
 
 <p align="center">
   <a href="https://skillicons.dev">
